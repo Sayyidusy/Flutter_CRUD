@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643052666941",
+    "project_id": "motion-6b0c9",
+    "storage_bucket": "motion-6b0c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643052666941:android:cb3ed78f1301be32362a54",
+        "android_client_info": {
+          "package_name": "com.example.crud_motion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643052666941-h8ttvc64a6r05t740ar7samg3sqg9rr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xp0YiKYCaVUc6RihzaVdJggWeikTS9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643052666941-h8ttvc64a6r05t740ar7samg3sqg9rr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
